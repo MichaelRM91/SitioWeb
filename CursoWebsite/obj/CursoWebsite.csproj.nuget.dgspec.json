@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\platzi\\WebApp\\CursoWebsite\\CursoWebsite.csproj": {}
+    "C:\\platzi\\WebApp\\SitioWeb\\CursoWebsite\\CursoWebsite.csproj": {}
   },
   "projects": {
-    "C:\\platzi\\WebApp\\CursoWebsite\\CursoWebsite.csproj": {
+    "C:\\platzi\\WebApp\\SitioWeb\\CursoWebsite\\CursoWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\platzi\\WebApp\\CursoWebsite\\CursoWebsite.csproj",
+        "projectUniqueName": "C:\\platzi\\WebApp\\SitioWeb\\CursoWebsite\\CursoWebsite.csproj",
         "projectName": "CursoWebsite",
-        "projectPath": "C:\\platzi\\WebApp\\CursoWebsite\\CursoWebsite.csproj",
+        "projectPath": "C:\\platzi\\WebApp\\SitioWeb\\CursoWebsite\\CursoWebsite.csproj",
         "packagesPath": "C:\\Users\\MICH9\\.nuget\\packages\\",
-        "outputPath": "C:\\platzi\\WebApp\\CursoWebsite\\obj\\",
+        "outputPath": "C:\\platzi\\WebApp\\SitioWeb\\CursoWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MICH9\\AppData\\Roaming\\NuGet\\NuGet.Config",

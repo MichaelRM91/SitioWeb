@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CursoWebsite
 build_property.RootNamespace = CursoWebsite
-build_property.ProjectDir = C:\platzi\WebApp\CursoWebsite\
+build_property.ProjectDir = C:\platzi\WebApp\SitioWeb\CursoWebsite\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\platzi\WebApp\CursoWebsite
+build_property.MSBuildProjectDirectory = C:\platzi\WebApp\SitioWeb\CursoWebsite
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/platzi/WebApp/CursoWebsite/Views/Home/Index.cshtml]
+[C:/platzi/WebApp/SitioWeb/CursoWebsite/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/platzi/WebApp/CursoWebsite/Views/Home/Privacy.cshtml]
+[C:/platzi/WebApp/SitioWeb/CursoWebsite/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/platzi/WebApp/CursoWebsite/Views/Shared/Error.cshtml]
+[C:/platzi/WebApp/SitioWeb/CursoWebsite/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/platzi/WebApp/CursoWebsite/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/platzi/WebApp/SitioWeb/CursoWebsite/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/platzi/WebApp/CursoWebsite/Views/_ViewImports.cshtml]
+[C:/platzi/WebApp/SitioWeb/CursoWebsite/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/platzi/WebApp/CursoWebsite/Views/_ViewStart.cshtml]
+[C:/platzi/WebApp/SitioWeb/CursoWebsite/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/platzi/WebApp/CursoWebsite/Views/Shared/_Layout.cshtml]
+[C:/platzi/WebApp/SitioWeb/CursoWebsite/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vhhma24gd8
